@@ -6,13 +6,13 @@ The purpose of this project was to develop a deep learning model which predicts 
 # Results
 - The target variable for this model is IS_SUCCESSFUL, which indicates whether an organization was successful.
 - Feature Variable(s):
--- The features used to predict the success include variables such as:
--- APPLICATION_TYPE
--- AFFILIATION
--- CLASSIFICATION
--- USE_CASE
--- ORGANIZATION
--- STATUS
--- INCOME_AMT
--- SPECIAL_CONSIDERATIONS
--- ASK_AMT
+  - The features used to predict the success include variables such as:
+  - APPLICATION_TYPE
+  - AFFILIATION
+  - CLASSIFICATION
+  - USE_CASE
+  - ORGANIZATION
+  - STATUS
+  - INCOME_AMT
+  - SPECIAL_CONSIDERATIONS
+  - ASK_AMT
